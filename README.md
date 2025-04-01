@@ -40,7 +40,7 @@ Wander Lust is a full-stack web application inspired by platforms like Airbnb. I
 ### Frontend
 - **HTML5** and **CSS3** (with Bootstrap for styling)
 - **JavaScript**
-- **React.js**
+
 
 ### Backend
 - **Node.js** with **Express.js**
@@ -49,7 +49,7 @@ Wander Lust is a full-stack web application inspired by platforms like Airbnb. I
 - **MongoDB** for data storage
 
 ### Additional Tools and Libraries
-- **JWT** for secure authentication
+- **Passport** for secure authentication
 - **Axios** for API requests
 - **Mongoose** for database interactions
 
